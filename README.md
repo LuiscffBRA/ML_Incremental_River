@@ -3,7 +3,7 @@
 Repositório desenvolvido para o seminário da disciplina de **Aprendizagem de Máquina** da Universidade Federal do Rio Grande do Norte (UFRN).
 
 **Docente:** Prof. Josenalde Oliveira  
-**Discente:** Luis Carlos Firmino Façanha 
+**Discente:** Luis Carlos Firmino Façanha  
 **Tema:** Machine Learning Incremental (River)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
